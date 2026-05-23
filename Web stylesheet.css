@@ -1,0 +1,31 @@
+header{
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    border-bottom: black solid
+}
+
+.photo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height:10%;
+    width: 50%;
+}
+
+body{
+    margin:0%;
+    padding:0%;
+    background-color: antiquewhite;
+}
+
+.font{ 
+    font-family: cursive;
+}
+
+.st{ 
+    font-family: cursive;
+}
