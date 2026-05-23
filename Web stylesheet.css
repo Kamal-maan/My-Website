@@ -2,7 +2,8 @@ header{
     background-color:antiquewhite;
     display: flex;
     justify-content: center;
-    border-bottom: black solid
+    border-bottom: black solid;
+    flex-wrap: wrap;
 }
 
 .photo{
