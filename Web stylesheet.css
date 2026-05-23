@@ -34,3 +34,13 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.container{ 
+    border: none;
+    border-radius: 20px;
+}
+
+.foot{ 
+    text-align:center;
+    font-weight: 900;
+}
