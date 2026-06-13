@@ -51,10 +51,3 @@ body{
     margin-left: 2%;
 }
 
-.video{
-    Display:flex;
-    align-items: center;
-    justify-content: center;
-    border:none;
-    border-radius: 20px;
-}
