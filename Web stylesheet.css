@@ -62,9 +62,9 @@ body{
     gap: 55px;
 }
 
-/*body{
-    background-image: url(Gemini_Generated_Image_xevxm0xevxm0xevx.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+.frame{
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
