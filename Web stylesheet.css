@@ -1,11 +1,12 @@
 header{
-    background-color:antiquewhite;
+    background-color:#1f2937;
     display: flex;
     justify-content: center;
     border-bottom: black solid;
     align-items: center;
     text-align: center;
     padding: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.5);
 }
 
 .photo{
@@ -23,7 +24,8 @@ img{
 body{
     margin:0%;
     padding:0%;
-    background-color: antiquewhite;
+    background-color: #121212;
+    color:#f5f5f5;
 }
 
 .font{ 
@@ -48,6 +50,21 @@ body{
 }
 
 .Obsession{
-    margin-left: 2%;
+    text-align: center;
+    color:red;
 }
 
+.Need{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 55px;
+}
+
+/*body{
+    background-image: url(Gemini_Generated_Image_xevxm0xevxm0xevx.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
