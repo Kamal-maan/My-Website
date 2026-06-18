@@ -67,3 +67,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.color{
+    position: absolute;
+    right: 20px;
+    top: 35px;
+}
